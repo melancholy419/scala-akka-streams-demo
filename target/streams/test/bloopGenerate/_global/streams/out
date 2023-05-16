@@ -1,0 +1,4 @@
+[debug] [kubernetes-test] Classpath dependencies List()
+[debug] [kubernetes-test] Dependencies from configurations List(kubernetes)
+[debug] Bloop wrote the configuration of project 'kubernetes-test' to 'C:\Users\LEADREMIT\Documents\ext-projects\kubernetes\.bloop\kubernetes-test.json'
+[success] Generated .bloop\kubernetes-test.json
